@@ -2,4 +2,5 @@
 
 just a demo
 
+bound to error
 will cause an error
