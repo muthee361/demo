@@ -3,3 +3,5 @@
 just a demo
 
 bound to error
+
+error 1
